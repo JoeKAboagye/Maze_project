@@ -34,6 +34,7 @@ Check out [this link](https://www.matsson.com/prog/sdl2-mingw-w64-tutorial.php#:
 
 Using Linux, Navigate to the `src` folder and Compile with
 `gcc -o raycaster *.c 'sdl2-config --cflags --libs' -lm`
+- Remove the line `#define SDL_MAIN_HANDLED` from the source codes in Linux
 
 #### Most of the code inspiration were adopted from [DrDanick](https://github.com/drdanick)
 
