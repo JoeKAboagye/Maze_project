@@ -23,7 +23,9 @@ This was designed for kids so that it could improve their spatial recognition an
 - SDL2 (Simple Directmedia Layer)
 - Ray-Casting
 - Bash
-- Makefile
+- Linear algebra
+- 3d-Graphics
+
 
 ## Compiling
 Using a Windows Operating sysytem, Navigate to the `src` folder and Compile with 
